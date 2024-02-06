@@ -1,4 +1,4 @@
-# React + TypeScript + Vite + Tailwind
+# React + TypeScript + Vite + React Router + Tailwind + Remix Icon
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
